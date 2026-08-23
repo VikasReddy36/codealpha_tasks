@@ -8,3 +8,10 @@ A simple text-based Hangman game built using Python.
 
 ```bash
 python hangman.py
+## Concepts Used
+
+- Random module
+- While loop
+- If-else statements
+- Strings
+- Lists
